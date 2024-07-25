@@ -1,6 +1,6 @@
 # SQL & PL/SQL Basics Practicals and Study materials using MySQL
 
-Welcome to the SQL & PL/SQL Basics Practicals and Study materials using MySQL! This repository contains a collection of SQL & PL/SQL practical exercises and examples, available in (`.sql`) format.
+Welcome to the SQL & PL/SQL Basics repository! This repository is designed to help you master the fundamentals of SQL and PL/SQL using MySQL. Here, you will find a comprehensive collection of practicals, practical manuals, assignments, unit-wise presentations, study materials, important questions, and previous GTU question papers. available in (`.sql`) , (`.pdf`) , (`.jpg`) , (`.png`) & (`.ppt.pdf`) format.
 
 
 ## Project Overview
@@ -8,6 +8,35 @@ Welcome to the SQL & PL/SQL Basics Practicals and Study materials using MySQL! T
 **Title:** SQL & PL/SQL Basics Practicals and Study materials using MySQL<br>
 **Author:** Khush
 
+# Contents
+
+## Practicals
+- Hands-on exercises to practice SQL and PL/SQL concepts.
+- Example queries and solutions.
+
+## Practical Manual
+- Detailed instructions and guidelines for each practical session.
+- Step-by-step explanations and expected outputs.
+
+## Assignments
+- Additional exercises to reinforce your understanding.
+- Real-world scenarios and problem-solving tasks.
+
+## Unit-Wise PPT
+- Presentations covering each unit of the course.
+- Visual aids and summaries of key concepts.
+
+## Unit-Wise Material
+- Comprehensive study materials for each unit.
+- In-depth explanations and examples.
+
+## Important Questions
+- List of important questions for each unit.
+- Key topics to focus on for exams.
+
+## GTU Question Papers
+- Previous years' question papers from GTU.
+- Helps in understanding the exam pattern and types of questions.
 
 
 ### Running Practicals
@@ -17,6 +46,17 @@ Welcome to the SQL & PL/SQL Basics Practicals and Study materials using MySQL! T
 git clone https://github.com/khushdiyora/SQL-PLSQL-Basics-Practicals-and-Studymaterials-using-MySQL.git
 ```
 
+**1. Explore the Content:**
+- Navigate through the folders to find practicals, assignments, and study materials.
+- Each folder is organized by units and topics for easy access.
+
+**2. Practice and Learn:**
+
+- Start with the practicals to get hands-on experience.
+- Refer to the practical manual for guidance and solutions.
+- Complete the assignments to deepen your understanding.
+- Use the unit-wise PPTs and materials for theoretical learning.
+- Review important questions and past GTU papers to prepare for exams.
 
 ### How to Contribute
 
