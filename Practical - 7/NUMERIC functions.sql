@@ -1,0 +1,43 @@
+/* Q-1:- */
+SELECT ABS(-30) FROM DUAL;
+/* OUTPUT : -  30 */
+
+/* Q-2:- */
+SELECT POWER(3,3) FROM DUAL;
+/* OUTPUT : -  27 */
+
+/* Q-3:- */
+SELECT ROUND(33.89,1) FROM DUAL;
+/* OUTPUT : -  33.9  */
+
+/* Q-4:- */
+SELECT SQRT(81) FROM DUAL; 	
+/* OUTPUT : -   9 */
+
+/* Q-5:- */
+SELECT EXP(1) FROM DUAL;
+/* OUTPUT : -  2.71828183  */
+
+/* Q-6:- */
+SELECT MOD(10,2) FROM DUAL;
+/* OUTPUT : -  0 */
+
+/* Q-7:- */
+SELECT TRUNC(30.987,1) FROM DUAL;
+/* OUTPUT : -  30.9  */
+
+/* Q-8:- */
+SELECT FLOOR(25.2) FROM DUAL;
+/* OUTPUT : -  25 */
+
+/* Q-9:- */
+SELECT FLOOR(25.2) FROM DUAL;
+/* OUTPUT : -  26 */
+
+/* Q-10: */-
+SELECT COS(5) FROM DUAL;
+/* OUTPUT : -  0.283662185  */
+
+/* Q-11- */
+SELECT COSH(5) FROM DUAL;
+/* OUTPUT : -  74.2099485  */

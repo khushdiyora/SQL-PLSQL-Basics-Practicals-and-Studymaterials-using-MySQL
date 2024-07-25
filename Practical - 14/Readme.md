@@ -1,0 +1,1 @@
+# Practical – 14: Retrieve data from multiple tables using sub queries.

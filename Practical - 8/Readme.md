@@ -1,0 +1,1 @@
+# Practical – 8: Implement SQL queries using CHARACTER functions.

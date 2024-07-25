@@ -1,0 +1,1 @@
+# Practical – 13: Retrieve data spread across the various tables or same table using various joins

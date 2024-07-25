@@ -1,0 +1,1 @@
+# Practical – 6: Implement SQL queries using DATE functions.

@@ -1,0 +1,1 @@
+# Practical – 7: Implement SQL queries using NUMERIC functions.
