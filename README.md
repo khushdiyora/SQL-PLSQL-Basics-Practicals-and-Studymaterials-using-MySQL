@@ -1,18 +1,20 @@
-# SQL & PL/SQL Basics Practicals using MySQL
+# SQL & PL/SQL Basics Practicals and Study materials using MySQL
 
-Welcome to the SQL & PL/SQL Basics Practicals using MySQL! This repository contains a collection of SQL & PL/SQL practical exercises and examples, available in (`.sql`) format.
+Welcome to the SQL & PL/SQL Basics Practicals and Study materials using MySQL! This repository contains a collection of SQL & PL/SQL practical exercises and examples, available in (`.sql`) format.
 
 
 ## Project Overview
 
-**Title:** SQL & PL/SQL Basics Practicals using MySQL<br>
+**Title:** SQL & PL/SQL Basics Practicals and Study materials using MySQL<br>
 **Author:** Khush
+
+
 
 ### Running Practicals
 
 **Clone the repository to your local machine:**
 ```bash
-git clone https://github.com/khushdiyora/SQL-PLSQL-Basics-Practicals-using-MySQL.git
+git clone https://github.com/khushdiyora/SQL-PLSQL-Basics-Practicals-and-Studymaterials-using-MySQL.git
 ```
 
 
