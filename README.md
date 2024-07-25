@@ -1,6 +1,6 @@
 # SQL & PL/SQL Basics Practicals and Study materials using MySQL
 
-Welcome to the SQL & PL/SQL Basics repository! This repository is designed to help you master the fundamentals of SQL and PL/SQL using MySQL. Here, you will find a comprehensive collection of practicals, practical manuals, assignments, unit-wise presentations, study materials, important questions, and previous GTU question papers. available in (`.sql`) , (`.pdf`) , (`.jpg`) , (`.png`) & (`.ppt.pdf`) format.
+Welcome to the SQL & PL/SQL Basics repository! This repository is designed to help you master the fundamentals of SQL and PL/SQL using MySQL. Here, you will find a comprehensive collection of practicals, practical manuals, assignments, unit-wise presentations, study materials, important questions, and previous GTU question papers. available in (`.sql`) , (`.pdf`) , (`.jpg`) , (`.png`) & (`.ppt`) format.
 
 
 ## Project Overview
