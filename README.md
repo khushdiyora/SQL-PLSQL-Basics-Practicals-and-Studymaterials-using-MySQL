@@ -12,7 +12,7 @@ Welcome to the SQL & PL/SQL Basics Practicals using MySQL! This repository conta
 
 **Clone the repository to your local machine:**
 ```bash
-    git clone https://github.com/khushdiyora/SQL-PLSQL-Basics-Practicals-using-MySQL.git
+git clone https://github.com/khushdiyora/SQL-PLSQL-Basics-Practicals-using-MySQL.git
 ```
 
 
